@@ -1,7 +1,7 @@
 # solana-nftminter-vercel
  patika.dev Salona
 
-  ### Go to solana-nftminter-vercel
+  ### Go to solana-nftminter-vercel (https://solana-nftminter-vercel.vercel.app/)
 <a href="https://solana-nftminter-vercel.vercel.app/"><img src="https://raw.githubusercontent.com/slckbsk/solana-nftminter-vercel/main/public/vercel.svg"></a>
 
 ------------------------------------------------------
